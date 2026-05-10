@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BetraySMP.aternos.me:50771",
+    "ip": "BetraySMP.aternos.me",
     "port": 50771,
     "version": "1.21.1"
   },
